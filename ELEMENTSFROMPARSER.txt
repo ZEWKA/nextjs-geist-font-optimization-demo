@@ -1,0 +1,8 @@
+name: Test Token
+symbol: TST
+description: This is a test token description.
+website: https://testtoken.example.com
+telegram: https://t.me/testtoken
+twitter: https://twitter.com/testtoken
+address: 0x1234567890abcdef1234567890abcdef12345678
+avatar: https://example.com/avatar.png
